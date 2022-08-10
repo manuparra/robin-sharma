@@ -1,4 +1,29 @@
-# robin-sharma
+Robin-sharma -  Leader who has no title
+
+- [IMAGE](#image)
+  * [I - Innovation](#i---innovation)
+  * [M - Master](#m---master)
+  * [A - Authenticity](#a---authenticity)
+  * [G - Great value](#g---great-value)
+  * [E - Ethics](#e---ethics)
+- [SPARK](#spark)
+  * [S - Sincerity](#s---sincerity)
+  * [P - Prioritise](#p---prioritise)
+  * [Adversity creates opportunity](#adversity-creates-opportunity)
+  * [R - Respond and not react](#r---respond-and-not-react)
+  * [K - Kudos](#k---kudos)
+- [SERVE](#serve)
+  * [S - Serving](#s---serving)
+  * [E - List(E)n](#e---list-e-n)
+  * [R - Relating](#r---relating)
+  * [V - Valuing fun](#v---valuing-fun)
+  * [E - Estimate](#e---estimate)
+- [SHINE](#shine)
+  * [S - Oportunitie(S)](#s---oportunitie-s-)
+  * [H - Improve your (H)ealth](#h---improve-your--h-ealth)
+  * [I - Inspiration](#i---inspiration)
+  * [N - Nurturing family ties](#n---nurturing-family-ties)
+  * [E - Elevate your life-style](#e---elevate-your-life-style)
 
 
 # IMAGE
