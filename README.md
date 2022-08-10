@@ -9,7 +9,7 @@ Robin-sharma -  Leader who has no title
 - [SPARK](#spark)
   * [S - Sincerity](#s---sincerity)
   * [P - Prioritise](#p---prioritise)
-  * [Adversity creates opportunity](#adversity-creates-opportunity)
+  * [A - Adversity creates opportunity](#a---adversity-creates-opportunity)
   * [R - Respond and not react](#r---respond-and-not-react)
   * [K - Kudos](#k---kudos)
 - [SERVE](#serve)
@@ -44,7 +44,7 @@ Robin-sharma -  Leader who has no title
 
 ## P - Prioritise
 
-## Adversity creates opportunity
+## A - Adversity creates opportunity
 
 ## R - Respond and not react
 
